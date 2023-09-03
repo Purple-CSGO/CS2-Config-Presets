@@ -1,0 +1,23 @@
+CS2启动项带探索，以下是CSGO的启动项说明
+
+1. 启动项间务必用空格分开
+2. 可以把自用启动项放在这里，方便复制
+
+推荐启动项
+
+-high -novid -nojoy -refresh 240 -tickrate 128 +cl_cmdrate 128 +cl_updaterate 128 +exec auto.cfg
+
+
+常用启动项说明：
+-novid          关闭过场动画
+-nojoy          优化帧数
++exec auto.cfg  自动加载auto.cfg
+-perfectworld   国服
+-worldwide      国际服
+-high           提高CSGO优先级
+-fullscreen     全屏
+-windowed       窗口化
+-noborder       窗口无边框
+-refresh 240    设置刷新率为240 根据显示器调整
+-w 1920 -h 1080 设置分辨率为1920x1080
+-tickrate 128 +cl_cmdrate 128 +cl_updaterate 128 设置128tick
