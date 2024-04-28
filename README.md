@@ -14,19 +14,23 @@
 
 ## 简介
 
-项目始于2018年8月，这套CFG预设涵盖了几乎所有应用的场景，注释详细：
+项目始于 2018 年 8 月，这套 CFG 预设涵盖了几乎所有应用的场景，注释详细：
 
-| 使用场景          | 文件名称              |
-|:-------------:|:-----------------:|
-| 游戏设置          | `auto.cfg`        |
-| 准星参数（使用跳投）    | `crosshair.cfg`   |
-| 跑图指令          | `practice.cfg`    |
-| 本地solo        | `solo.cfg`        |
-| 观看demo        | `demo.cfg`        |
+|       使用场景       |       文件名称        |
+| :------------------: | :-------------------: |
+|       游戏设置       |      `auto.cfg`       |
+| 准星参数（使用跳投） |    `crosshair.cfg`    |
+|     投掷准星参数     | `crosshair_throw.cfg` |
+|       跑图指令       |    `practice.cfg`     |
+|      本地 solo       |      `solo.cfg`       |
+|      观看 demo       |      `demo.cfg`       |
+|      HLAE 设置       |      `hlae.cfg`       |
+|   FFmpeg 录制预设    |     `ffmpeg.cfg`      |
+|   帧数基准测试设置   |      `bench.cfg`      |
 
-所有的参数都经过详细的测试，按键位置仔细斟酌，确保每个功能的按键都在它用起来最舒服的位置。适用于对CS2指令不太熟悉，想要到手即用，节省时间的玩家，亦或是想要参考他人的代码来丰富自己CFG的玩家。
+所有的参数都经过详细的测试，按键位置仔细斟酌，确保每个功能的按键都在它用起来最舒服的位置。适用于对 CS2 指令不太熟悉，想要到手即用，节省时间的玩家，亦或是想要参考他人的代码来丰富自己 CFG 的玩家。
 
-下载这套预设之后，根据使用说明，备份设置、简单修改参数、放在正确的位置、设置启动项后即可享受预设带来的便利，一般整个过程不超过30分钟。
+下载这套预设之后，根据使用说明，备份设置、简单修改参数、放在正确的位置、设置启动项后即可享受预设带来的便利，一般整个过程不超过 30 分钟。
 
 ## 下载
 
@@ -34,9 +38,9 @@
 
 ## 用法
 
-见 [使用文档](https://config.upup.cool/v2/)
+见 [使用文档](https://cfg.upup.cool/v2/)
 
-CS2 CFG放在游戏目录 `game\csgo\cfg`，如：
+CS2 CFG 放在游戏目录 `game\csgo\cfg`，如：
 
 ```
 ...steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg
@@ -44,7 +48,7 @@ CS2 CFG放在游戏目录 `game\csgo\cfg`，如：
 
 ## 翻译
 
-如果你想参与翻译工作，将预设翻译为其他语言，请提交PR，或在[issues](https://github.com/Purple-CSGO/CS2-Config-Presets/issues)中提出。
+如果你想参与翻译工作，将预设翻译为其他语言，请提交 PR，或在[issues](https://github.com/Purple-CSGO/CS2-Config-Presets/issues)中提出。
 
 ## 捐赠
 
