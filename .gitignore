@@ -1,0 +1,5 @@
+gamemode_*.cfg
+gamestate_*.cfg
+server*.cfg
+*.vcfg
+perftest.cfg
