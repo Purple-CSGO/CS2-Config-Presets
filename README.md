@@ -26,7 +26,7 @@
 |      观看 demo       |      `demo.cfg`       |
 |      HLAE 设置       |      `hlae.cfg`       |
 |   FFmpeg 录制预设    |     `ffmpeg.cfg`      |
-|   帧数基准测试设置   |      `bench.cfg`      |
+|   帧数基准测试设置   |     [fps-benchmark](https://github.com/Purple-CSGO/cs2-fps-benchmark)      |
 
 所有的参数都经过详细的测试，按键位置仔细斟酌，确保每个功能的按键都在它用起来最舒服的位置。适用于对 CS2 指令不太熟悉，想要到手即用，节省时间的玩家，亦或是想要参考他人的代码来丰富自己 CFG 的玩家。
 
@@ -34,7 +34,23 @@
 
 ## 下载
 
+### Github Release
+
 [Releases](https://github.com/Purple-CSGO/CS2-Config-Presets/releases)
+
+
+### HLAE中文站
+
+https://hlae.site
+
+下载地址: https://api.upup.cool/get/cs2-cfg
+
+### 网盘
+
+- 帧数基准测试：https://purp1e.lanzouj.com/b01lzyyef 密码:1fn4
+- CFG预设 For CS2：https://purp1e.lanzouj.com/b01lzyyfg 密码:41wc
+- CS2 Reshade整合包：https://purp1e.lanzouj.com/b0ny8cdij 密码:9as4
+
 
 ## 用法
 
