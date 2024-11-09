@@ -16,7 +16,7 @@ CS2启动项
 -worldwide      国际服
 -high           提高CSGO优先级
 -fullscreen     全屏
--windowed       窗口化
+-sw                  窗口化
 -noborder       窗口无边框
 -refresh 240    设置刷新率为240 根据显示器调整
 -w 1920 -h 1080 设置分辨率为1920x1080
