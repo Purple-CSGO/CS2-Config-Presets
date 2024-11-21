@@ -5,7 +5,7 @@ CS2启动项
 
 推荐启动项
 
--high -novid -nojoy -refresh 240 +exec auto.cfg
+-high -novid -nojoy -refresh 240 -threads 8 +exec auto.cfg
 
 
 常用启动项说明：
@@ -14,9 +14,13 @@ CS2启动项
 +exec auto.cfg  自动加载auto.cfg
 -perfectworld   国服
 -worldwide      国际服
--high           提高CSGO优先级
+-high           提高优先级
 -fullscreen     全屏
--sw                  窗口化
+-sw             窗口化
 -noborder       窗口无边框
 -refresh 240    设置刷新率为240 根据显示器调整
 -w 1920 -h 1080 设置分辨率为1920x1080
+-threads 8      设置线程数 建议设为大核核心数 or AMD 一个CCD的核心数 最好用 Process Lasso 手动调度
+
+-allow_third_party_software  运行第三方软件：录屏、滤镜、性能监测软件
+-insecure                    非安全启动 无法进入受VAC保护的服务器
