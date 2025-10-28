@@ -47,9 +47,9 @@ https://hlae.site
 
 ### 网盘
 
-- 帧数基准测试：https://purp1e.lanzouj.com/b01lzyyef 密码:1fn4
-- CFG预设 For CS2：https://purp1e.lanzouj.com/b01lzyyfg 密码:41wc
-- CS2 Reshade整合包：https://purp1e.lanzouj.com/b0ny8cdij 密码:9as4
+- 帧数基准测试：https://purp1e.lanzouu.com/b01lzyyef 密码:1fn4
+- CFG预设 For CS2：https://purp1e.lanzouu.com/b01lzyyfg 密码:41wc
+- CS2 Reshade整合包：https://purp1e.lanzouu.com/b0ny8cdij 密码:9as4
 
 
 ## 用法
