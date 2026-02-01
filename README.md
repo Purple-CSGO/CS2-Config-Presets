@@ -50,7 +50,7 @@ https://hlae.site
 - 帧数基准测试：https://purp1e.lanzouu.com/b01lzyyef 密码:1fn4
 - CFG预设 For CS2：
 - 链接：
-  - 夸克网盘：https://pan.quark.cn/s/795b011bc21d 提取码：6EZu
+  - 夸克网盘：https://pan.quark.cn/s/c15bc8be6b76?pwd=GndW 提取码：GndW
   - 蓝奏云：https://purp1e.lanzouu.com/b01lzyyfg 密码:41wc
 - CS2 Reshade整合包：https://purp1e.lanzouu.com/b0ny8cdij 密码:9as4
 
